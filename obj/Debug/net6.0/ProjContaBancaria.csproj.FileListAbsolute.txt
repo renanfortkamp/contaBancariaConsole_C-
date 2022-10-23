@@ -1,0 +1,15 @@
+C:\Users\renan\repo\devinhouse\modulo02\ProjContaBancaria\bin\Debug\net6.0\ProjContaBancaria.exe
+C:\Users\renan\repo\devinhouse\modulo02\ProjContaBancaria\bin\Debug\net6.0\ProjContaBancaria.deps.json
+C:\Users\renan\repo\devinhouse\modulo02\ProjContaBancaria\bin\Debug\net6.0\ProjContaBancaria.runtimeconfig.json
+C:\Users\renan\repo\devinhouse\modulo02\ProjContaBancaria\bin\Debug\net6.0\ProjContaBancaria.dll
+C:\Users\renan\repo\devinhouse\modulo02\ProjContaBancaria\bin\Debug\net6.0\ProjContaBancaria.pdb
+C:\Users\renan\repo\devinhouse\modulo02\ProjContaBancaria\obj\Debug\net6.0\ProjContaBancaria.csproj.AssemblyReference.cache
+C:\Users\renan\repo\devinhouse\modulo02\ProjContaBancaria\obj\Debug\net6.0\ProjContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\repo\devinhouse\modulo02\ProjContaBancaria\obj\Debug\net6.0\ProjContaBancaria.AssemblyInfoInputs.cache
+C:\Users\renan\repo\devinhouse\modulo02\ProjContaBancaria\obj\Debug\net6.0\ProjContaBancaria.AssemblyInfo.cs
+C:\Users\renan\repo\devinhouse\modulo02\ProjContaBancaria\obj\Debug\net6.0\ProjContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\renan\repo\devinhouse\modulo02\ProjContaBancaria\obj\Debug\net6.0\ProjContaBancaria.dll
+C:\Users\renan\repo\devinhouse\modulo02\ProjContaBancaria\obj\Debug\net6.0\refint\ProjContaBancaria.dll
+C:\Users\renan\repo\devinhouse\modulo02\ProjContaBancaria\obj\Debug\net6.0\ProjContaBancaria.pdb
+C:\Users\renan\repo\devinhouse\modulo02\ProjContaBancaria\obj\Debug\net6.0\ProjContaBancaria.genruntimeconfig.cache
+C:\Users\renan\repo\devinhouse\modulo02\ProjContaBancaria\obj\Debug\net6.0\ref\ProjContaBancaria.dll
